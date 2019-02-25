@@ -10,7 +10,7 @@
 
 #mainName {
   font-size: 50px;
-  margin-top: 30px;
+  margin-top: 10%;
   margin-left: 30%;
   font-weight: bold;
   font-family: "Slabo 27px", serif;
@@ -30,6 +30,11 @@
 
 .nav-link {
   color: black;
+}
+
+#bodyimg {
+  height: 600px;
+  width: 100%;
 }
 
 /*sticky header position*/
@@ -54,6 +59,15 @@ nav {
   min-height: 85px;
 }
 
+#footerName {
+  padding-top: 20px;
+}
+
+#Email {
+  margin-left: 47%;
+  color: rgb(92, 29, 29);
+}
+
 /* Sticky footer styles
                 -------------------------------------------------- */
 html {
@@ -71,7 +85,7 @@ body {
 
   /* Set the fixed height of the footer here */
   height: 85px;
-  background-color: rgb(200, 209, 200);
+  background-color: hsl(120, 4%, 91%);
 }
 
 html {
