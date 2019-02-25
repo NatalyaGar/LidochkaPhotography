@@ -5,3 +5,60 @@
   font-weight: bold;
   font-family: "Open Sans", sans-serif;
 }
+
+/*sticky header position*/
+.sticky.is-sticky {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+/* .navbar-brand {
+  margin-left: 50%;
+} */
+.navbar-nav {
+  margin-left: 60%;
+}
+
+body {
+  min-height: 1200px;
+}
+nav {
+  background: #eaebec;
+  min-height: 85px;
+}
+
+/* Sticky footer styles
+                -------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 0px;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+
+  /* Set the fixed height of the footer here */
+  height: 85px;
+  background-color: rgb(200, 209, 200);
+}
+
+html {
+  height: 100%;
+  position: relative;
+}
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
