@@ -1,9 +1,35 @@
-#mainName {
-  font-size: 17px;
-  margin-top: 20px;
-  margin-left: 60%;
+.navbar-brand {
+  font-family: "Slabo 27px", serif;
   font-weight: bold;
-  font-family: "Open Sans", sans-serif;
+  letter-spacing: 2px;
+}
+.phName {
+  font-family: "Slabo 27px", serif;
+  margin-top: 1%;
+}
+
+#mainName {
+  font-size: 50px;
+  margin-top: 30px;
+  margin-left: 30%;
+  font-weight: bold;
+  font-family: "Slabo 27px", serif;
+  letter-spacing: 3px;
+}
+
+#staf {
+  margin-left: 35%;
+  font-size: 30px;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: "Slabo 27px", serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: white;
+  /* padding: 20px 20px; */
+}
+
+.nav-link {
+  color: black;
 }
 
 /*sticky header position*/
@@ -15,9 +41,7 @@
   z-index: 1000;
   width: 100%;
 }
-/* .navbar-brand {
-  margin-left: 50%;
-} */
+
 .navbar-nav {
   margin-left: 60%;
 }
