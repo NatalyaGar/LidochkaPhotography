@@ -20,12 +20,10 @@
 #staf {
   margin-left: 35%;
   font-size: 30px;
-  /* font-family: "Open Sans", sans-serif; */
   font-family: "Slabo 27px", serif;
   font-weight: bold;
   letter-spacing: 2px;
   color: white;
-  /* padding: 20px 20px; */
 }
 
 .nav-link {
@@ -73,7 +71,6 @@ nav {
 .LBAbout {
   text-align: center;
   font-size: 30px;
-  /* margin-top: 10%; */
   margin-left: 8%;
   font-weight: bold;
   font-family: "Slabo 27px", serif;
@@ -82,19 +79,17 @@ nav {
 
 .textAbout {
   color: black;
-  /* text-align: justify; */
-  padding-left: 50%;
+  text-align: justify;
+  padding-left: 20%;
 }
 #containerAbout {
-  /* padding: 30px 60px 30px 60px; */
-
   margin-top: 80px;
 }
 
 .bio-image {
-  /* margin: auto; */
-  margin-top: 70%;
+  margin-top: 30%;
 }
+
 #footerName {
   padding-top: 20px;
 }
