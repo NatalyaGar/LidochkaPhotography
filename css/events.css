@@ -11,11 +11,17 @@
 .nav-link {
   color: black;
 }
-
-/* #bodyimg {
+.evPort {
+  margin-left: 40%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  letter-spacing: 4px;
+  line-height: 3em;
+}
+#bodyimg {
   height: 600px;
   width: 100%;
-} */
+}
 
 /*sticky header position*/
 .sticky.is-sticky {
@@ -40,21 +46,6 @@ nav {
   min-height: 85px;
 }
 
-.bio-image {
-  margin-top: 10%;
-}
-.contForm {
-  margin-bottom: 10%;
-}
-.contMe {
-  text-align: center;
-  margin-top: 5%;
-}
-
-.letsTalk {
-  margin-top: 15%;
-}
-
 #footerName {
   padding-top: 20px;
 }
@@ -69,7 +60,7 @@ nav {
 }
 
 /* Sticky footer styles
-                  -------------------------------------------------- */
+                    -------------------------------------------------- */
 html {
   position: relative;
   min-height: 100%;
