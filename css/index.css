@@ -54,11 +54,47 @@
 body {
   min-height: 1200px;
 }
+
 nav {
   background: #eaebec;
   min-height: 85px;
 }
 
+.AboutW {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10%;
+  margin-left: 8%;
+  font-weight: bold;
+  font-family: "Slabo 27px", serif;
+  letter-spacing: 3px;
+}
+
+.LBAbout {
+  text-align: center;
+  font-size: 30px;
+  /* margin-top: 10%; */
+  margin-left: 8%;
+  font-weight: bold;
+  font-family: "Slabo 27px", serif;
+  letter-spacing: 3px;
+}
+
+.textAbout {
+  color: black;
+  /* text-align: justify; */
+  padding-left: 50%;
+}
+#containerAbout {
+  /* padding: 30px 60px 30px 60px; */
+
+  margin-top: 80px;
+}
+
+.bio-image {
+  /* margin: auto; */
+  margin-top: 70%;
+}
 #footerName {
   padding-top: 20px;
 }
