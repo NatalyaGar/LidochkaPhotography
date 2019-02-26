@@ -1,0 +1,102 @@
+.navbar-brand {
+  font-family: "Slabo 27px", serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.phName {
+  font-family: "Slabo 27px", serif;
+  margin-top: 1%;
+}
+
+.nav-link {
+  color: black;
+}
+
+#bodyimg {
+  height: 600px;
+  width: 100%;
+}
+
+/*sticky header position*/
+.sticky.is-sticky {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+.navbar-nav {
+  margin-left: 60%;
+}
+
+body {
+  min-height: 850px;
+}
+
+nav {
+  background: #eaebec;
+  min-height: 85px;
+}
+
+.bio-image {
+  margin-top: 10%;
+}
+.contForm {
+  margin-bottom: 10%;
+}
+.contMe {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.letsTalk {
+  margin-top: 15%;
+}
+
+#footerName {
+  padding-top: 20px;
+}
+
+#Email {
+  margin-left: 47%;
+  color: rgb(92, 29, 29);
+}
+
+.submit {
+  margin-top: 5%;
+}
+
+/* Sticky footer styles
+                  -------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 0px;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+
+  /* Set the fixed height of the footer here */
+  height: 85px;
+  background-color: hsl(120, 4%, 91%);
+}
+
+html {
+  height: 100%;
+  position: relative;
+}
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
