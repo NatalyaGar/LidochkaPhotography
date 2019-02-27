@@ -1,5 +1,6 @@
 .navbar-brand {
-  font-family: "Slabo 27px", serif;
+  /* font-family: "Slabo 27px", serif; */
+  font-family: "Charm", cursive;
   font-weight: bold;
   letter-spacing: 2px;
 }
@@ -13,14 +14,16 @@
   margin-top: 10%;
   margin-left: 30%;
   font-weight: bold;
-  font-family: "Slabo 27px", serif;
+  /* font-family: "Slabo 27px", serif; */
+  font-family: "Charm", cursive;
   letter-spacing: 3px;
 }
 
 #staf {
   margin-left: 35%;
   font-size: 30px;
-  font-family: "Slabo 27px", serif;
+  /* font-family: "Slabo 27px", serif; */
+  font-family: "Charm", cursive;
   font-weight: bold;
   letter-spacing: 2px;
   color: white;
@@ -28,8 +31,13 @@
 
 .nav-link {
   color: black;
+  font-family: "Slabo 27px", serif;
 }
 
+.dropdown-item {
+  /* font-family: "Charm", cursive; */
+  font-family: "Slabo 27px", serif;
+}
 #bodyimg {
   height: 600px;
   width: 100%;
@@ -74,6 +82,7 @@ nav {
   margin-left: 8%;
   font-weight: bold;
   font-family: "Slabo 27px", serif;
+  /* font-family: "Charm", cursive; */
   letter-spacing: 3px;
 }
 
@@ -92,6 +101,7 @@ nav {
 
 #footerName {
   padding-top: 20px;
+  font-family: "Charm", cursive;
 }
 
 #Email {
