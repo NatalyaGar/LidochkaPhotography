@@ -12,7 +12,7 @@
 .nav-link {
   color: black;
 }
-.matPort {
+.SeniorPort {
   font-family: "Charm", cursive;
   margin-left: 48%;
   margin-top: 2%;
@@ -63,7 +63,7 @@ nav {
 }
 
 /* Sticky footer styles
-                      -------------------------------------------------- */
+                        -------------------------------------------------- */
 html {
   position: relative;
   min-height: 100%;
