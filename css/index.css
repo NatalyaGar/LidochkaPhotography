@@ -46,10 +46,10 @@
   /* font-family: "Charm", cursive; */
   font-family: "Slabo 27px", serif;
 }
-#bodyimg {
+/* #bodyimg {
   height: 600px;
   width: 100%;
-}
+} */
 
 /*sticky header position*/
 .sticky.is-sticky {

@@ -20,46 +20,28 @@
   border-top: solid black;
   /* width: 90%; */
 }
-.famPort {
+#famPort {
   font-family: "Charm", cursive;
-  margin-left: 40%;
+  /* margin: 4em 0; */
+  /* position: relative; */
+  margin-left: 5%;
   margin-top: 3%;
-  margin-bottom: 3%;
+  margin-bottom: 2%;
   letter-spacing: 4px;
-  /* line-height: 2em; */
-  /* border-bottom: solid black; */
-}
-#bodyimg {
-  height: 430px;
-  width: 55%;
-  margin-left: 6%;
-  margin-bottom: 0;
-  /* padding: 20px; */
-}
-#kids400img {
-  height: 430px;
-  width: 55%;
-  margin-left: 6%;
-  margin-bottom: 0;
-}
-#Ana73img {
-  height: 490px;
-  width: 30%;
-  /* margin-left: 10px; */
-  margin-top: 5%;
 }
 
-#famimg {
-  height: 430px;
-  width: 55%;
-  margin-left: 6%;
-  margin-top: 0;
-  /* padding: 20px; */
-}
-#Ana86img {
-  height: 490px;
-  width: 30%;
-  margin-top: 5px;
+/*Portfolio*/
+/* .portfolio {
+  margin: 4em 0;
+  position: relative;
+} */
+
+.portfolio img {
+  /* height: 18rem; */
+  height: 25rem;
+  width: 100%;
+  /* width: auto; */
+  margin: 1em;
 }
 
 /*sticky header position*/
