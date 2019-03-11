@@ -17,6 +17,9 @@
 #footerName {
   color: rgb(202, 128, 128);
 }
+.nav-link:hover {
+  color: #6e5b54 !important;
+}
 
 #evPort {
   font-family: "Charm", cursive;

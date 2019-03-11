@@ -26,6 +26,10 @@
   color: rgb(202, 128, 128);
 }
 
+.nav-link:hover {
+  color: #6e5b54 !important;
+}
+
 #mainName {
   font-size: 50px;
   /* margin-top: 10%; */
@@ -57,7 +61,6 @@
 }
 
 .nav-link {
-  color: black;
   font-family: "Slabo 27px", serif;
 }
 
