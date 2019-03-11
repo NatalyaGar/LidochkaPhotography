@@ -3,20 +3,32 @@
   font-family: "Charm", cursive;
   font-weight: bold;
   letter-spacing: 2px;
+  color: rgb(202, 128, 128);
 }
 .phName {
   font-family: "Slabo 27px", serif;
   margin-top: 1%;
+  color: rgb(202, 128, 128);
+}
+#Home,
+#navbarDropdown,
+#Contact,
+#drDown,
+#footerName,
+#Email {
+  color: rgb(202, 128, 128);
+}
+
+#lastName,
+.emailL,
+.firName,
+.messageL {
+  color: rgb(202, 128, 128);
 }
 
 .nav-link {
   color: black;
 }
-
-/* #bodyimg {
-  height: 600px;
-  width: 100%;
-} */
 
 /*sticky header position*/
 .sticky.is-sticky {
@@ -53,10 +65,15 @@ nav {
 }
 .conMeh4 {
   padding-bottom: 20px;
+  color: rgb(160, 76, 76);
+}
+p {
+  color: rgb(160, 76, 76);
 }
 
 .letsTalk {
   margin-top: 15%;
+  color: rgb(160, 76, 76);
 }
 
 #footerName {
@@ -66,11 +83,12 @@ nav {
 
 #Email {
   margin-left: 47%;
-  color: rgb(92, 29, 29);
+  color: rgb(202, 128, 128);
 }
 
 .submit {
   margin-top: 5%;
+  color: rgb(160, 76, 76);
 }
 
 /* Sticky footer styles

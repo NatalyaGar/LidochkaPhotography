@@ -3,21 +3,31 @@
   font-family: "Charm", cursive;
   font-weight: bold;
   letter-spacing: 2px;
+  color: rgb(202, 128, 128);
 }
 .phName {
   font-family: "Slabo 27px", serif;
   margin-top: 1%;
+  color: rgb(202, 128, 128);
+}
+#Home,
+#navbarDropdown,
+#Contact,
+#drDown,
+#footerName {
+  color: rgb(202, 128, 128);
 }
 
-.nav-link {
-  color: black;
-}
 #BusinessPort {
   font-family: "Charm", cursive;
   margin-top: 2%;
   margin-bottom: 2%;
   letter-spacing: 4px;
   line-height: 3em;
+  color: rgb(160, 76, 76);
+}
+.portfolio img {
+  margin: 1em;
 }
 
 /*sticky header position*/
@@ -50,7 +60,7 @@ nav {
 
 #Email {
   margin-left: 47%;
-  color: rgb(92, 29, 29);
+  color: rgb(202, 128, 128);
 }
 
 .submit {
