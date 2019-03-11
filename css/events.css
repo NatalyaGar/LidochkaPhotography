@@ -12,17 +12,35 @@
 .nav-link {
   color: black;
 }
-.evPort {
+#evPort {
   font-family: "Charm", cursive;
-  margin-left: 48%;
   margin-top: 2%;
   margin-bottom: 2%;
   letter-spacing: 4px;
   line-height: 3em;
 }
-#bodyimg {
+/* #bodyimg {
   height: 600px;
   width: 100%;
+} */
+
+.portfolio img {
+  margin: 1em;
+}
+
+#aplMan {
+  height: 25em;
+  width: auto;
+}
+
+#eventGr {
+  height: 22.5em;
+  width: auto;
+}
+
+#pinkGl {
+  height: 32.5em;
+  width: auto;
 }
 
 /*sticky header position*/
