@@ -42,11 +42,6 @@
   margin: 1em;
 }
 
-#AnaBal {
-  height: 32.2rem;
-  width: 100%;
-}
-
 /*sticky header position*/
 .sticky.is-sticky {
   position: fixed;
