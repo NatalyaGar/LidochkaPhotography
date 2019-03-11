@@ -12,17 +12,12 @@
 .nav-link {
   color: black;
 }
-.BusinessPort {
+#BusinessPort {
   font-family: "Charm", cursive;
-  margin-left: 48%;
   margin-top: 2%;
   margin-bottom: 2%;
   letter-spacing: 4px;
   line-height: 3em;
-}
-#bodyimg {
-  height: 600px;
-  width: 100%;
 }
 
 /*sticky header position*/
