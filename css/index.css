@@ -34,6 +34,7 @@
   /* font-family: "Slabo 27px", serif; */
   font-family: "Charm", cursive;
   letter-spacing: 3px;
+  color: rgb(160, 76, 76);
 }
 
 #LidName {
@@ -42,6 +43,7 @@
   font-weight: bold;
   font-family: "Charm", cursive;
   letter-spacing: 3px;
+  color: rgb(160, 76, 76);
 }
 
 #staf {
