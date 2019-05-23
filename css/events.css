@@ -1,5 +1,4 @@
 .navbar-brand {
-  /* font-family: "Slabo 27px", serif; */
   font-family: "Charm", cursive;
   font-weight: bold;
   letter-spacing: 2px;
@@ -29,29 +28,10 @@
   line-height: 3em;
   color: rgb(160, 76, 76);
 }
-/* #bodyimg {
-  height: 600px;
-  width: 100%;
-} */
 
 .portfolio img {
   margin: 1em;
 }
-
-/* #aplMan {
-  height: 25em;
-  width: auto;
-}
-
-#eventGr {
-  height: 22.5em;
-  width: auto;
-}
-
-#pinkGl {
-  height: 32.5em;
-  width: auto;
-} */
 
 /*sticky header position*/
 .sticky.is-sticky {

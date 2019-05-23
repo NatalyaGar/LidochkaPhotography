@@ -27,12 +27,9 @@
 }
 #famPortCont {
   border-top: solid black;
-  /* width: 90%; */
 }
 #famPort {
   font-family: "Charm", cursive;
-  /* margin: 4em 0; */
-  /* position: relative; */
   margin-left: 5%;
   margin-top: 3%;
   margin-bottom: 2%;
@@ -40,15 +37,7 @@
   color: rgb(160, 76, 76);
 }
 
-/*Portfolio*/
-/* .portfolio {
-  margin: 4em 0;
-  position: relative;
-} */
-
 .portfolio img {
-  /* height: 25rem;
-  width: 100%; */
   margin: 1em;
 }
 
