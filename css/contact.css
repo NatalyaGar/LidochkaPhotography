@@ -57,7 +57,9 @@ nav {
 }
 
 .bio-image {
-  margin-top: 10%;
+  margin-left: 5%;
+  height: 520px;
+  margin-top: 5%;
 }
 .contForm {
   margin-bottom: 10%;
@@ -66,9 +68,12 @@ nav {
   text-align: center;
   margin-top: 5%;
 }
-.conMeh4 {
+#conMeh4 {
   padding-bottom: 20px;
   color: rgb(160, 76, 76);
+  margin-top: 5%;
+  text-align: center;
+  border-bottom: 2px solid rgb(160, 76, 76);
 }
 p {
   color: rgb(160, 76, 76);

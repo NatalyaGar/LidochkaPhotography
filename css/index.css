@@ -1,5 +1,5 @@
 /* #bodyimg {
-  background-image: url(images/main.jpg);
+  background-image: url(images/mainAn3.jpg);
   background-attachment: fixed;
   background-size: cover;
   height: 500px;
@@ -35,15 +35,19 @@
   font-family: "Charm", cursive;
   letter-spacing: 3px;
   color: rgb(160, 76, 76);
+  /* color: white; */
+  margin-left: 42%;
 }
 
 #LidName {
   font-size: 50px;
-  margin-top: 10%;
+  margin-top: 48%;
+  margin-left: 42%;
   font-weight: bold;
   font-family: "Charm", cursive;
   letter-spacing: 3px;
   color: rgb(160, 76, 76);
+  /* color: white; */
 }
 
 #staf {
@@ -78,7 +82,7 @@
 }
 
 body {
-  min-height: 1200px;
+  min-height: 1100px;
 }
 
 nav {
