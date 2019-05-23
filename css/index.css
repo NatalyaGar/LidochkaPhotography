@@ -89,12 +89,13 @@ nav {
 .AboutW {
   text-align: center;
   font-size: 30px;
-  margin-top: 5%;
-  /* margin-left: 8%; */
+  margin-top: 3%;
   font-weight: bold;
   font-family: "Slabo 27px", serif;
   letter-spacing: 3px;
   color: rgb(160, 76, 76);
+  border-bottom: 2px solid rgb(160, 76, 76);
+  padding-bottom: 3%;
 }
 
 /* .LBAbout {
@@ -127,7 +128,7 @@ nav {
 }
 
 #containerAbout {
-  margin-top: 80px;
+  margin-top: 3%;
 }
 
 .bio-image {
